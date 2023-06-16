@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/chaldal_final.iml" filepath="$PROJECT_DIR$/chaldal_final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PathaoApp.iml" filepath="$PROJECT_DIR$/PathaoApp.iml" />
     </modules>
   </component>
 </project>

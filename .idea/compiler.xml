@@ -6,12 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chaldal_final" />
+        <module name="PathaoApp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chaldal_final" target="1.8" />
       <module name="chaldal_open_appium" target="1.5" />
+      <module name="PathaoApp" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

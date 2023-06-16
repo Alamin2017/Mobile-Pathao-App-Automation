@@ -6,20 +6,20 @@
     <groups>
     </groups>
     <test name="Default test" duration-ms="68055" started-at="2022-12-23T23:32:02 BDT" finished-at="2022-12-23T23:33:10 BDT">
-      <class name="testCases.test">
-        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.test@52f759d7]" name="setup" is-config="true" duration-ms="56342" started-at="2022-12-23T23:32:02 BDT" finished-at="2022-12-23T23:32:58 BDT">
+      <class name="testCases.OnboardingTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.OnboardingTest@52f759d7]" name="setup" is-config="true" duration-ms="56342" started-at="2022-12-23T23:32:02 BDT" finished-at="2022-12-23T23:32:58 BDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test_por()[pri:0, instance:testCases.test@52f759d7]" name="test_por" duration-ms="11279" started-at="2022-12-23T23:32:58 BDT" finished-at="2022-12-23T23:33:09 BDT">
+        <test-method status="PASS" signature="test_por()[pri:0, instance:testCases.OnboardingTest@52f759d7]" name="test_por" duration-ms="11279" started-at="2022-12-23T23:32:58 BDT" finished-at="2022-12-23T23:33:09 BDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_por -->
-        <test-method status="PASS" signature="tear_down()[pri:0, instance:testCases.test@52f759d7]" name="tear_down" is-config="true" duration-ms="390" started-at="2022-12-23T23:33:09 BDT" finished-at="2022-12-23T23:33:10 BDT">
+        <test-method status="PASS" signature="tear_down()[pri:0, instance:testCases.OnboardingTest@52f759d7]" name="tear_down" is-config="true" duration-ms="390" started-at="2022-12-23T23:33:09 BDT" finished-at="2022-12-23T23:33:10 BDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-      </class> <!-- testCases.test -->
+      </class> <!-- testCases.OnboardingTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
