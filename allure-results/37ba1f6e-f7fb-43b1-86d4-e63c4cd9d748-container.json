@@ -1,0 +1,1 @@
+{"uuid":"37ba1f6e-f7fb-43b1-86d4-e63c4cd9d748","name":"Testing Android Application","children":["a041269c-4f87-4ed8-92b5-e044a05a42d7"],"befores":[{"name":"installApp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1686980344633,"stop":1686980368635}],"afters":[],"start":1686980344597,"stop":1686980465034}

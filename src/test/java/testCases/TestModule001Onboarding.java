@@ -1,10 +1,9 @@
 package testCases;
 import EnvSetup.BaseEnv;
-import io.appium.java_client.MobileBy;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-public class OnboardingTest extends BaseEnv {
+public class TestModule001Onboarding extends BaseEnv {
     @Test(priority = 1)
     public void TC_001() throws InterruptedException {
         Thread.sleep(3000);
@@ -57,12 +56,13 @@ public class OnboardingTest extends BaseEnv {
     }
     @Test(priority = 8)
     public void TC_008() throws InterruptedException {
+        Thread.sleep(2000);
         driver.findElement(By.id("com.pathao.user:id/btnRequestPermission")).click();
         Thread.sleep(3000);
         driver.findElement(By.id("com.android.permissioncontroller:id/permission_allow_one_time_button")).click();
         Thread.sleep(3000);
     }
-    @Test(priority = 8)
+    @Test(priority = 9)
     public void TC_009() throws InterruptedException {
         Thread.sleep(3000);
         driver.findElement(By.xpath("(//android.widget.ImageView[@content-desc=\"Pathao\"])[12]")).click();

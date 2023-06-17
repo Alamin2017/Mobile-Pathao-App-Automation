@@ -1,0 +1,1 @@
+{"uuid":"fd25a2a8-7af4-4246-9d6b-9555619d9c90","name":"Default Suite","children":["41689f48-4c26-4f36-922b-15429e928f43"],"befores":[{"name":"installApp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1686978861510,"stop":1686978893557}],"afters":[],"start":1686978861465,"stop":1686978964313}

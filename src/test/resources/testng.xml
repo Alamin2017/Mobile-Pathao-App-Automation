@@ -3,7 +3,8 @@
 <suite name="Testing Android Application">
     <test name="Regression">
         <classes>
-            <class name="testCases.OnboardingTest"></class>
+            <class name="testCases.TestModule001Onboarding"></class>
+            <class name="testCases.TestModule005Home"></class>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->

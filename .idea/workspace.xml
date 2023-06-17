@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5fd33dc-5da4-4f04-9eb6-3168f266f4a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_java_commons_2_22_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_model_2_22_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_test_filter_2_22_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_testng_2_22_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/TestModule005Home.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaldal_final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PathaoApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/OnboardingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/OnboardingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TestModule001Onboarding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testCases/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testCases/test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/EnvSetup/BaseEnv.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/EnvSetup/BaseEnv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testCases/OnboardingTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" afterDir="false" />
@@ -105,7 +97,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnboardingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestModule001Onboarding" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PathaoApp" />
       <extension name="coverage">
         <pattern>
@@ -114,7 +106,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="chaldal_final" />
-      <option name="MAIN_CLASS_NAME" value="testCases.OnboardingTest" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TestModule001Onboarding" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -122,7 +114,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnboardingTest.test_tc_001" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestModule001Onboarding.test_tc_001" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PathaoApp" />
       <extension name="coverage">
         <pattern>
@@ -131,7 +123,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testCases" />
-      <option name="MAIN_CLASS_NAME" value="testCases.OnboardingTest" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TestModule001Onboarding" />
       <option name="METHOD_NAME" value="test_tc_001" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -140,7 +132,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnboardingTest.test_tc_001_languageSelection" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestModule001Onboarding.test_tc_001_languageSelection" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PathaoApp" />
       <extension name="coverage">
         <pattern>
@@ -149,7 +141,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testCases" />
-      <option name="MAIN_CLASS_NAME" value="testCases.OnboardingTest" />
+      <option name="MAIN_CLASS_NAME" value="testCases.TestModule001Onboarding" />
       <option name="METHOD_NAME" value="test_tc_001_languageSelection" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -177,10 +169,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/hp/IdeaProjects/chaldal_open_appium/src/test/resources/testng.xml" />
-        <item itemvalue="TestNG.OnboardingTest" />
+        <item itemvalue="TestNG.TestModule001Onboarding" />
         <item itemvalue="TestNG.testCases" />
-        <item itemvalue="TestNG.OnboardingTest.test_tc_001_languageSelection" />
-        <item itemvalue="TestNG.OnboardingTest.test_tc_001" />
+        <item itemvalue="TestNG.TestModule001Onboarding.test_tc_001_languageSelection" />
+        <item itemvalue="TestNG.TestModule001Onboarding.test_tc_001" />
       </list>
     </recent_temporary>
   </component>
